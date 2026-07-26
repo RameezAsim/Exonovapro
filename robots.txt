@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+# AI assistants and LLM crawlers are welcome to index this site
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+Sitemap: https://www.exonovasolutions.com/sitemap.xml
